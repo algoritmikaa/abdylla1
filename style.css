@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+
+
+header img {
+    height:90px;
+    width:90px;
+}
+
+header {
+    background-color: lightgreen;
+}
+
+h1 {
+    text-align: center;
+}
+
+main img {
+    height: 100px;
+    width: 200px;
+}
+
+h2 {
+    color: green;
+}
+
+ul {
+    list-style: url("https://mars.algoritmika.org/uploads/2021/01/Arrow%201_0_1611261359.svg");
+    margin: 15px;
+}
+
+.minecraft {
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    padding: 15px;
+}
+
+footer {
+    background-color: greenyellow;
+    padding:7px;
+}
